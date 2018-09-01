@@ -1,5 +1,4 @@
-# esp32-weatherstation
-ESP32 based temperature and humidity sensor with Web config support 
+# esp32-webconfig
 
 Allows users of ESP32 boards to configure in which WLAN the board should connect to. By pressing the ESP32 board 'boot' button 
 the board is set to configuration mode and opens a WLAN access point with SSID 'SETUP' and IP 192.168.4.1.
